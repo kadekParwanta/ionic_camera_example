@@ -1,6 +1,3 @@
-## Note
-The local notification plugin only works on cordova 3.7.1
-
 ## Instructions
 [Download][zip] or clone the master branch and run the following command:
 
@@ -18,8 +15,8 @@ This software is released under the [Apache 2.0 License][apache2_license].
 © 2013-2015 appPlant UG, Inc. All rights reserved
 
 ## References
-[Cordova][cordova]
-[Cordova Camera Plugin][readme]
+[Cordova][cordova] : Cordova Homepage.
+[Cordova Camera Plugin][readme] : org.apache.cordova.camera plugin homepage.
 
 [cordova]: https://cordova.apache.org
 [readme]: http://plugins.cordova.io/#/package/org.apache.cordova.camera
